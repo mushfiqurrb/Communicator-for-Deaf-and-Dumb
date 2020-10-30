@@ -1,6 +1,6 @@
 # Communicator for Deaf and Dumb
 ### This project helps the deaf and dumb people to communicate easily with normal people.
-## It has mainly two parts. Speech recognition part and the sign language recognition part.
+# It has mainly two parts. Speech recognition part and the sign language recognition part.
 
 # Packages needed for Speech Recognition
 
@@ -9,7 +9,7 @@
 - SpeechRecognition 3.8.1
 
 # Packages needed for Sign Language Recognition
-# First you need to install Microsoft Visual C++
+### First you need to install Microsoft Visual C++
 - Python version == 3.7
 - Keras 2.4.3
 - tensorflow 2.3.1
