@@ -2,11 +2,13 @@
 ### This project helps the deaf and dumb people to communicate easily with normal people.
 # It has mainly two parts. Speech recognition part and the sign language recognition part.
 
+
 # Packages needed for Speech Recognition
 
 - Python version == 3.7
 - PyAudio 0.2.11
 - SpeechRecognition 3.8.1
+
 
 # Packages needed for Sign Language Recognition
 ### First you need to install Microsoft Visual C++
