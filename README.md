@@ -2,7 +2,7 @@
 ### This project helps the deaf and dumb people to communicate easily with normal people.
 # It has mainly two parts. Speech recognition part and the sign language recognition part.
 
-# Dataset link = https://github.com/mushfiqurrb/Communicator-for-Deaf-and-Dumb--Dataset- 
+- Dataset link = https://github.com/mushfiqurrb/Communicator-for-Deaf-and-Dumb--Dataset- 
 # Packages needed for Speech Recognition
 
 - Python version == 3.7
